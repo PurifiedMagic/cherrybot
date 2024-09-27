@@ -1,0 +1,2 @@
+# cherrybot
+cherrybot for Discord
